@@ -1,6 +1,7 @@
 ---
 layout: post
-title: Blogging Like a Hacker
+title: Some R stuff
+category: Rbundle
 ---
 
 ### My git pages
